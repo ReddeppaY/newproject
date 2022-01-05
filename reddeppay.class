@@ -1,4 +1,8 @@
 class Reddeppay{
 
-public static void main (string[] args)
+public static void main (string[] args){
 system.out.println("thsis is my first program")
+
+system.out.println("errors removed and some lime added")
+}
+}
